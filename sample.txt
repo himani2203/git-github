@@ -1,1 +1,3 @@
 creating file and will sync with centralized repositry
+
+learning GIT, devops
